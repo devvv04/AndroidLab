@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LinkedIn</string>
+    <string name="search_hint">Search</string>
+    <string name="profile_name">Dev Verma</string>
+    <string name="headline">MCA Student | Full-Stack Web Developer | Python ML Enthusiast</string>
+    <string name="location">Faridabad, Haryana, India</string>
+    <string name="connections">500+ connections</string>
+    <string name="open_to">Open to</string>
+    <string name="add_section">Add Section</string>
+    <string name="enhance_profile">Enhance Profile</string>
+    <string name="home">Home</string>
+    <string name="network">Network</string>
+    <string name="post">Post</string>
+    <string name="notifications">Notifications</string>
+    <string name="jobs">Jobs</string>
+</resources>
